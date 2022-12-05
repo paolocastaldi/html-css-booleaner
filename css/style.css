@@ -16,7 +16,61 @@
 }
 
 
+#titoloAutoreData{
+    margin: 20px 0 20px 0;
+}
+#titoloAutoreData h4{
+    color: grey;
+}
+#titoloAutoreData h5{
+    color: grey;
+}
 
+a:link {
+    text-decoration: none;
+  }
+  
+
+.descrizione{
+    margin-bottom: 20px;
+    }
+
+.evidenziato{
+    background-color: yellow;
+}
+
+#articoloprincipale{
+    margin-bottom: 40px;
+}
+ul{
+    margin-bottom: 40px;
+    padding-left: 20px;
+}
+
+#headerTabella{
+    background-color: rgb(26, 170, 230);
+    height: 1px;
+}
+#headerTabella td{
+    color: white;
+    font-weight: bold;
+}
+.rigaCeleste{
+    background-color: rgba(178,230,242,255);
+}
+
+table{
+    margin-bottom: 40px;
+    border-collapse: collapse;
+}
+
+td{
+    width: 33%;
+}
+
+#conclusioni{
+    margin-bottom: 40px;
+}
 
 
 
